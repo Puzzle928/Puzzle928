@@ -1,5 +1,3 @@
-<head>
-</head>
 <h1 align='center'> :smiley:Welcome to Puzzle928's Github:smiley: </p>
 <h2 align='center'>This is Jeonghyeon's technology blog<br><br>I like stars and forks<br><br>Have a good time.</p>
 <p align='center'>
